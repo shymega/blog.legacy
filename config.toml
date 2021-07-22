@@ -15,7 +15,7 @@ theme = "temple"
   category = "categories"
 
 [author]
-  name = "dom rodriguez (shymega)"
+  name = "Dom Rodriguez (shymega)"
   github = "shymega"
   email = "shymega@shymega.org.uk"
   twitter = "shymega_"
